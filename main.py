@@ -14,5 +14,6 @@ headtitle = soup.find(name="h1", class_="slotTitle").get_text()
 print(headtitle[::-1])
 print("or")
 print(headtitle)
-print("-----------------------------------------------------------------------")
-print("I did both way because on different interpreter hebrew print in reverse")
+print("------------------------------------------------------")
+print("print both way because "
+      "on different interpreter hebrew print in reverse")
